@@ -1,5 +1,5 @@
 # SpringMVCForBeginners_BuildJavaWebApp
-Udemy course in28minutes - Spring MVC For Beginners | Build Java Web App
+End code from Udemy course in28minutes - Spring MVC For Beginners | Build Java Web App
 
 This is end code Udemy course in28minutes - Spring MVC For Beginners.
 - Insert code to your favorite IDE 
@@ -10,5 +10,6 @@ This is end code Udemy course in28minutes - Spring MVC For Beginners.
 - Apply
 - Run
 
-User: **in28Minutes**
-Password: **dummy**
+Username and password:
+- User: **in28Minutes**
+- Password: **dummy**
